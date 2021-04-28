@@ -1,0 +1,17 @@
+
+.jumbotron{
+    padding-top:0px;
+    background: rgb(187, 221, 131);
+
+}
+
+.form-control, .input-group-text{
+    
+    border-radius:seagreen;
+}
+
+table.table-hover tbody tr:hover{
+    cursor:pointer;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

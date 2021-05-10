@@ -1,0 +1,198 @@
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csprojAssemblyReference.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfoInputs.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfo.cs
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CoreCompileInputs.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.exe
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.deps.json
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.json
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.dev.json
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.Manifest.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.xml
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserManagementAPI.styles.css
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.RazorTargetAssemblyInfo.cache
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CopyComplete
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.dll
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.pdb
+D:\Saurav\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.genruntimeconfig.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.exe
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.deps.json
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.json
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.dev.json
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfo.cs
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.Manifest.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.xml
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserManagementAPI.styles.css
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CopyComplete
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.dll
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.pdb
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.genruntimeconfig.cache
+C:\Users\Hari Ohm Ojha\Downloads\UserManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csprojAssemblyReference.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.exe
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.deps.json
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.json
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.runtimeconfig.dev.json
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\UserManagementAPI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csprojAssemblyReference.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfoInputs.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.AssemblyInfo.cs
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CoreCompileInputs.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.Manifest.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\staticwebassets\UserManagementAPI.StaticWebAssets.xml
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\UserManagementAPI.styles.css
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.RazorTargetAssemblyInfo.cache
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.csproj.CopyComplete
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.dll
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.pdb
+D:\UserAuthManagement\UserManagement\UserManagementAPI\UserManagementAPI\obj\Debug\netcoreapp3.1\UserManagementAPI.genruntimeconfig.cache
